@@ -1,0 +1,6 @@
+# MD files need to be converted to HTML
+*.md
+
+# Python code
+venv/
+convertMdToHtml.py
